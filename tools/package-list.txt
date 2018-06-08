@@ -1,7 +1,4 @@
-add-ons;addon-google_apis-google-15
-add-ons;addon-google_apis-google-16
 add-ons;addon-google_apis-google-17
-add-ons;addon-google_apis-google-18
 add-ons;addon-google_apis-google-19
 add-ons;addon-google_apis-google-21
 add-ons;addon-google_apis-google-22
