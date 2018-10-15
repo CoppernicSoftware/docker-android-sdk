@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 
 # build and tag
 docker build -f ubuntu/standalone/Dockerfile -t android .
